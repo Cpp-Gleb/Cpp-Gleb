@@ -17,8 +17,8 @@
 
 ## &#128209;***My case:***
 
-<img src="https://github.com/Cpp-Gleb/Cpp-Gleb/blob/main/ITMO-certificate-CPP.jpg" style="width: 100px; justify-content: spase-between; display: flex;">
-<img src="https://github.com/Cpp-Gleb/Cpp-Gleb/blob/main/stepik-certificate-CPP.jpg" style="width: 100px; justify-content: spase-between; display: flex;">
-<img src="https://github.com/Cpp-Gleb/Cpp-Gleb/blob/main/grace-ITS.jpg" style="width: 100px; justify-content: spase-between; flex;"><br>
+<img src="https://github.com/Cpp-Gleb/Cpp-Gleb/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-10-22%20230911.png" style="width: 100px; justify-content: spase-between; display: flex;">
+<img src="https://github.com/Cpp-Gleb/Cpp-Gleb/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-10-22%20231030.png" style="width: 100px; justify-content: spase-between; display: flex;">
+<img src="https://github.com/Cpp-Gleb/Cpp-Gleb/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-10-22%20231051.png" style="width: 100px; justify-content: spase-between; flex;"><br>
 
 &#128242; Write to my [**telegram**](https://t.me/Cpp_Gleb) 

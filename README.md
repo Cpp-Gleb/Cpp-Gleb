@@ -1,19 +1,8 @@
 # <p><strong> &#128205; Welcome to Cpp-Gleb GitHub!</strong> 
 
-&#128202; I work with:
-1. C++
-2. C
-3. Linux
-4. Git
-5. Python
 
+## &#128242; Write to my <a href="https://t.me/Cpp_Gleb">telegram </a> 
 
-## &#128270; GitHub Stats
-
-<p>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Cpp-Gleb">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Cpp-Gleb&show_icons=true&line_height=33&count_private=true">
-</p>
 
 ## &#128209;***My sertificate:***
 <div flex-flow: row nowrap; align-items:center; align-content:center; justify-content: spase-between; display: flex;>
@@ -23,7 +12,18 @@
 </div>
 
 
-## &#128242; Write to my <a href="https://t.me/Cpp_Gleb">telegram </a> 
+&#128202; I work with:
+1. C++
+2. C
+3. Linux
+4. Git
+5. Python
 
+## &#128270; GitHub Stats
+
+<p>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Cpp-Gleb">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Cpp-Gleb&show_icons=true&line_height=33&count_private=true">
+</p>
 
 

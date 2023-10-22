@@ -23,7 +23,7 @@
 </div>
 
 
-##&#128242; Write to my <a href="https://t.me/Cpp_Gleb">telegram </a> 
+## &#128242; Write to my <a href="https://t.me/Cpp_Gleb">telegram </a> 
 
 
 

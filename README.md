@@ -18,6 +18,7 @@
 3. Linux
 4. Git
 5. Python
+6. Qt
 
 ## &#128270; GitHub Stats
 

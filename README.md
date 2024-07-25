@@ -19,6 +19,7 @@
 4. Git
 5. Python
 6. Qt
+7. Flask
 
 ## &#128270; GitHub Stats
 

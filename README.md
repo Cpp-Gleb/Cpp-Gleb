@@ -13,13 +13,21 @@
 
 
 &#128202; I work with:
+languages:
 1. C++
 2. C
-3. Linux
-4. Git
-5. Python
-6. Qt
-7. Flask
+3. Python
+4. Haskell
+
+Frames:
+1. Qt
+2. Flask
+
+Toolkit:
+1. Linux
+2. Docker
+3. Git
+4. Markdown
 
 ## &#128270; GitHub Stats
 

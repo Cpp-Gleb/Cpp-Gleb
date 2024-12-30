@@ -29,6 +29,7 @@ Toolkit:
 2. Docker
 3. Git
 4. Markdown
+5. GoogleTest
 
 ## &#128270; GitHub Stats
 

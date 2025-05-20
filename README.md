@@ -3,6 +3,7 @@
 
 ## &#128242; Write to my <a href="https://t.me/Cpp_Gleb">telegram </a> 
 
+## &#128188; Check my <a href="https://github.com/Cpp-Gleb/Cpp-Gleb/blob/main/CV.pdf">CV </a> 
 
 &#128202; I work with:
 
